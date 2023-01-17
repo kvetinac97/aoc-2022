@@ -1,0 +1,8 @@
+= Advent of code 2022
+
+My solutions for Advent of code 2022 in Kotlin. +
+I managed to solve days 1 to 15.
+
+'''
+
+&copy; Ondřej Wrzecionko 2022
